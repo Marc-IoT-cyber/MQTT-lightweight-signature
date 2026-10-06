@@ -1,0 +1,170 @@
+[
+  {
+    "asm": {
+      "temps_us": 11.89,
+      "cpu_cycles": 2853.0,
+      "ram_octets": 4294965504.0,
+      "energie_mj": 0.001569,
+      "latence_us": 11.89
+    },
+    "c": {
+      "temps_us": 20.47,
+      "cpu_cycles": 4914.0,
+      "ram_octets": 0.0,
+      "energie_mj": 0.002702,
+      "latence_us": 20.47
+    },
+    "gains": {
+      "temps_pourcent": 41.94,
+      "energie_pourcent": 41.94
+    },
+    "timestamp": "2026-10-06T08:57:53.733660"
+  },
+  {
+    "asm": {
+      "temps_us": 11.88,
+      "cpu_cycles": 2850.0,
+      "ram_octets": 4294965504.0,
+      "energie_mj": 0.001568,
+      "latence_us": 11.88
+    },
+    "c": {
+      "temps_us": 20.48,
+      "cpu_cycles": 4914.0,
+      "ram_octets": 0.0,
+      "energie_mj": 0.002703,
+      "latence_us": 20.48
+    },
+    "gains": {
+      "temps_pourcent": 41.99,
+      "energie_pourcent": 41.99
+    },
+    "timestamp": "2026-10-06T08:58:08.362556"
+  },
+  {
+    "asm": {
+      "temps_us": 11.87,
+      "cpu_cycles": 2848.0,
+      "ram_octets": 0.0,
+      "energie_mj": 0.001566,
+      "latence_us": 11.87
+    },
+    "c": {
+      "temps_us": 20.47,
+      "cpu_cycles": 4912.0,
+      "ram_octets": 0.0,
+      "energie_mj": 0.002702,
+      "latence_us": 20.47
+    },
+    "gains": {
+      "temps_pourcent": 42.02,
+      "energie_pourcent": 42.02
+    },
+    "timestamp": "2026-10-06T08:58:23.914277"
+  },
+  {
+    "asm": {
+      "temps_us": 11.87,
+      "cpu_cycles": 2848.0,
+      "ram_octets": 0.0,
+      "energie_mj": 0.001566,
+      "latence_us": 11.87
+    },
+    "c": {
+      "temps_us": 20.47,
+      "cpu_cycles": 4912.0,
+      "ram_octets": 0.0,
+      "energie_mj": 0.002702,
+      "latence_us": 20.47
+    },
+    "gains": {
+      "temps_pourcent": 42.02,
+      "energie_pourcent": 42.02
+    },
+    "timestamp": "2026-10-06T08:58:38.531522"
+  },
+  {
+    "asm": {
+      "temps_us": 11.87,
+      "cpu_cycles": 2848.0,
+      "ram_octets": 0.0,
+      "energie_mj": 0.001566,
+      "latence_us": 11.87
+    },
+    "c": {
+      "temps_us": 20.47,
+      "cpu_cycles": 4912.0,
+      "ram_octets": 0.0,
+      "energie_mj": 0.002702,
+      "latence_us": 20.47
+    },
+    "gains": {
+      "temps_pourcent": 42.02,
+      "energie_pourcent": 42.02
+    },
+    "timestamp": "2026-10-06T08:58:54.021654"
+  },
+  {
+    "asm": {
+      "temps_us": 11.89,
+      "cpu_cycles": 2853.0,
+      "ram_octets": 4294960640.0,
+      "energie_mj": 0.001569,
+      "latence_us": 11.89
+    },
+    "c": {
+      "temps_us": 20.47,
+      "cpu_cycles": 4912.0,
+      "ram_octets": 0.0,
+      "energie_mj": 0.002702,
+      "latence_us": 20.47
+    },
+    "gains": {
+      "temps_pourcent": 41.92,
+      "energie_pourcent": 41.92
+    },
+    "timestamp": "2026-10-06T08:59:08.483841"
+  },
+  {
+    "asm": {
+      "temps_us": 11.88,
+      "cpu_cycles": 2850.0,
+      "ram_octets": 4294960640.0,
+      "energie_mj": 0.001568,
+      "latence_us": 11.88
+    },
+    "c": {
+      "temps_us": 20.47,
+      "cpu_cycles": 4914.0,
+      "ram_octets": 0.0,
+      "energie_mj": 0.002703,
+      "latence_us": 20.47
+    },
+    "gains": {
+      "temps_pourcent": 41.99,
+      "energie_pourcent": 41.99
+    },
+    "timestamp": "2026-10-06T08:59:23.537961"
+  },
+  {
+    "asm": {
+      "temps_us": 11.87,
+      "cpu_cycles": 2850.0,
+      "ram_octets": 4294960640.0,
+      "energie_mj": 0.001567,
+      "latence_us": 11.87
+    },
+    "c": {
+      "temps_us": 20.47,
+      "cpu_cycles": 4914.0,
+      "ram_octets": 0.0,
+      "energie_mj": 0.002703,
+      "latence_us": 20.47
+    },
+    "gains": {
+      "temps_pourcent": 42.0,
+      "energie_pourcent": 42.0
+    },
+    "timestamp": "2026-10-06T08:59:38.866574"
+  }
+]
